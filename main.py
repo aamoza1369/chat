@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 
 # Getiing bot token from env file
 load_dotenv()
-Bot_Token = os.getenv('Bot_Token')
+Bot_Token = os.getenv('6512851207:AAFdov9etsIcxGgy1tXHGPSJ2mVXiG0fmRs')
 
 
 '''
